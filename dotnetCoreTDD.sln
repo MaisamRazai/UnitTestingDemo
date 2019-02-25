@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TDDDemoApp", "tdddemoapp\TDDDemoApp.csproj", "{41CA45E7-57B5-4969-95E4-EA92D4CC15F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TDDDemoApp", "TDDDemoApp\TDDDemoApp.csproj", "{41CA45E7-57B5-4969-95E4-EA92D4CC15F4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TDDDemoAppTests", "tdddemoapptests\TDDDemoAppTests.csproj", "{C4AF788F-62A0-4A22-96AF-168C3280186F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TDDDemoAppTests", "TDDDemoAppTests\TDDDemoAppTests.csproj", "{C4AF788F-62A0-4A22-96AF-168C3280186F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{45348124-EE20-4AA2-9649-70670434BD87}"
 EndProject
